@@ -1,10 +1,19 @@
 {
   "licenses": [
     {
-      "name": "André Test",
+      "name": "André Bosse",
       "hardwareId": "CA4A-CEE0-73EC-8AD1",
       "validUntil": "2027-04-29",
       "active": true
+    },
+      "name": "Marvin Wenk",
+      "hardwareId": "0B41-C131-4AEB-39AC",
+      "validUntil": "2027-04-29",
+      "active": true
+    },
+      "name": "Dennis Beims",
+      "hardwareId": "57A7-9634-84F8-4970",
+      "validUntil": "2027-04-29",
+      "active": true
     }
-  ]
 }
