@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/Drelusion/kuka-tool-license/releases",
+  "version": "1.0.1",
+  "downloadUrl": "https://github.com/Drelusion/kuka-tool-license/releases/download/v1.0.1/KukaPatcher.exe",
   "changelog": "Erste Update-Prüfung eingebaut.",
   "mandatory": false
 }
