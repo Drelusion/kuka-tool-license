@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "downloadUrl": "https://github.com/Drelusion/kuka-tool-license/releases/download/v1.0.4/KukaPatcher.exe",
-  "changelog": "Wegen Marvin dem pfuscher.",
+  "changelog": "DatCleaner optimiert. Neue funktion, welches UP im HP verwendet wird.",
   "mandatory": false
 }
