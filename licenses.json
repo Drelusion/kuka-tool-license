@@ -3,8 +3,8 @@
     {
       "name": "André Bosse",
       "hardwareId": "948B-0E9C-6C12-7E5F",
-      "validUntil": "2027-04-29",
-      "active": false
+      "validUntil": "2026-04-29",
+      "active": true
     },
     {
       "name": "Marvin Wenk",
