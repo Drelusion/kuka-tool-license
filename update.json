@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "downloadUrl": "https://github.com/Drelusion/kuka-tool-license/releases/download/v1.0.7/KukaPatcher.exe",
-  "changelog": "Rob/SPS Abgleich für Verriegelungen",
+  "version": "1.0.8",
+  "downloadUrl": "https://github.com/Drelusion/kuka-tool-license/releases/download/v1.0.8/KukaPatcher.exe",
+  "changelog": "Kleine Bug Fixes",
   "mandatory": false
 }
