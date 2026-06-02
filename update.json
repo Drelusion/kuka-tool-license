@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "downloadUrl": "https://github.com/Drelusion/kuka-tool-license/releases/download/v1.0.9/KukaPatcher.exe",
-  "changelog": "Langtext Analyse eingefügt",
+  "version": "1.0.10",
+  "downloadUrl": "https://github.com/Drelusion/kuka-tool-license/releases/download/v1.0.10/KukaPatcher.exe",
+  "changelog": "Suche eingefügt",
   "mandatory": false
 }
