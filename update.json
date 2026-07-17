@@ -1,6 +1,6 @@
 {
-  "version": "1.0.18",
-  "downloadUrl": "https://github.com/Drelusion/kuka-tool-license/releases/download/v1.0.18/KukaPatcher.exe",
-  "changelog": "Ordner kopieren eingefügt",
+  "version": "1.0.19",
+  "downloadUrl": "https://github.com/Drelusion/kuka-tool-license/releases/download/v1.0.19/KukaPatcher.exe",
+  "changelog": "Benutzerhandbuch hinzugefügt",
   "mandatory": false
 }
