@@ -1,6 +1,6 @@
 {
-  "version": "1.0.24",
-  "downloadUrl": "https://github.com/Drelusion/kuka-tool-license/releases/download/v1.0.24/KukaPatcher.exe",
-  "changelog": "Langtext Analyse optimiert",
+  "version": "1.0.25",
+  "downloadUrl": "https://github.com/Drelusion/kuka-tool-license/releases/download/v1.0.25/KukaPatcher.exe",
+  "changelog": "Externe Achsen bearbeiten",
   "mandatory": false
 }
